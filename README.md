@@ -2,9 +2,10 @@
 ## How to run the code
 Our code is in jupyter notebook. 
 To run the code:
-1. Download all the requirements from requirements.txt
-2. Run jupyter notebook
-3. Follow the steps below for the different methods
+1. Clone the project
+2. Download all the requirements from requirements.txt
+3. Run jupyter notebook
+4. Follow the steps below for the different methods
 
 ### KNN
 Run through the whole code. It is described in the notebook, what each of the functions does.

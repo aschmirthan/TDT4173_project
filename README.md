@@ -2,7 +2,7 @@
 ## How to run the code
 Our code is in jupyter notebook. 
 To run the code:
-1. Download all the requirements
+1. Download all the requirements from requirements.txt
 2. Run jupyter notebook
 3. Follow the steps below for the different methods
 
